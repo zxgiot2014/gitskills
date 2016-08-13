@@ -1,0 +1,7 @@
+git 命令：
+查看分支：git branch
+创建分支：git branch dev(分支名)
+切换分支：git checkout master
+创建+切换分支：git checkout -b dev
+合并某分支：git merge dev(把dev这个分支合并到当前的分支上)
+删除分支：git branch -b dev
